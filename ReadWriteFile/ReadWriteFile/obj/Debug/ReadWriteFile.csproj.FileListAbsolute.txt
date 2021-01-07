@@ -1,0 +1,7 @@
+C:\Users\vinutha.sn\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe.config
+C:\Users\vinutha.sn\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe
+C:\Users\vinutha.sn\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.pdb
+C:\Users\vinutha.sn\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csprojAssemblyReference.cache
+C:\Users\vinutha.sn\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\vinutha.sn\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.exe
+C:\Users\vinutha.sn\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.pdb
